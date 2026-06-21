@@ -135,8 +135,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=Guru-Surya-Raja-J&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&cache_seconds=1800"/>
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Guru-Surya-Raja-J&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&cache_seconds=1800"/>
+  <img height="165" src="https://github-readme-stats-kappa-three-48.vercel.app/api?username=Guru-Surya-Raja-J&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="165" src="https://github-readme-stats-kappa-three-48.vercel.app/api/top-langs/?username=Guru-Surya-Raja-J&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800"/>
 </div>
 
 <div align="center">
