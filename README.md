@@ -135,12 +135,20 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=Guru-Surya-Raja-J&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false"/>
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Guru-Surya-Raja-J&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=Guru-Surya-Raja-J&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&cache_seconds=1800"/>
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Guru-Surya-Raja-J&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&cache_seconds=1800"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Guru-Surya-Raja-J&theme=tokyonight&hide_border=false"/>
+  <img src="https://streak-stats.demolab.com/?user=Guru-Surya-Raja-J&theme=tokyonight&hide_border=false&cache_seconds=1800"/>
+</div>
+
+<br/>
+
+## 📈 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Guru-Surya-Raja-J&theme=react-dark&bg_color=0D1117&color=0EA5E9&line=0EA5E9&point=38BDF8&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
 </div>
 
 <br/><br/>
