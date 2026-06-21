@@ -7,34 +7,37 @@
 </a>
 
 <p>
-  <img src="https://img.shields.io/badge/📍-Tuticorin,_Tamil_Nadu_(Open_to_Relocation)-0EA5E9?style=flat-square&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/✉️-gurusuryaraja%40gmail.com-0EA5E9?style=flat-square&labelColor=1a1a1a"/>
+  <img src="https://img.shields.io/badge/Tuticorin,_Tamil_Nadu_(Open_to_Relocation)-0EA5E9?style=flat-square&logo=googlemaps&logoColor=white&labelColor=1a1a1a"/>
+  <img src="https://img.shields.io/badge/gurusuryaraja%40gmail.com-0EA5E9?style=flat-square&logo=gmail&logoColor=white&labelColor=1a1a1a"/>
 </p>
+
+<a href="https://guru-surya-raja-portfolio.vercel.app/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=flat-square&logo=vercel&logoColor=white&labelColor=1a1a1a"/>
+</a>
 
 </div>
 
 <br/>
 
-## 💫 About Me
+## <img src="https://img.icons8.com/fluency/48/user-male-circle.png" width="28" valign="middle"/> About Me
 
-```yaml
-🔭 Currently working on:    Production features on a MERN SaaS platform @ Xyzon Innovations —
-                             auth systems, payment flows, AI tools & automated PDF pipelines
-🤝 Looking to collaborate:  Full-stack MERN projects, SaaS platforms, real-time (Socket.io) & AI integrations
-🆘 Looking for help with:   Scaling backend architecture for high-traffic SaaS apps
-🌱 Currently learning:      Data Structures & Algorithms in C++ (Striver's A2Z Sheet) → MNC-level SDE roles
-💬 Ask me about:            MERN Stack · React.js · Node.js/Express · MongoDB · Full-stack development
-⚡ Fun fact:                 38,000+ lines shipped across 20+ production PRs · Intern of the Month × 3 🏆
-```
+<p>
+<img src="https://img.icons8.com/fluency/48/telescope.png" width="20" valign="middle"/> <b>Currently working on</b> — Building production features on a MERN SaaS platform @ Xyzon Innovations: auth systems, payment flows, AI tools & automated PDF pipelines<br/><br/>
+<img src="https://img.icons8.com/fluency/48/handshake.png" width="20" valign="middle"/> <b>Looking to collaborate on</b> — Full-stack MERN projects, SaaS platforms, real-time (Socket.io) & AI integrations<br/><br/>
+<img src="https://img.icons8.com/fluency/48/help.png" width="20" valign="middle"/> <b>Looking for help with</b> — Scaling backend architecture for high-traffic SaaS apps<br/><br/>
+<img src="https://img.icons8.com/fluency/48/graduation-cap.png" width="20" valign="middle"/> <b>Currently learning</b> — Data Structures & Algorithms in C++ (Striver's A2Z Sheet) → MNC-level SDE roles<br/><br/>
+<img src="https://img.icons8.com/fluency/48/chat.png" width="20" valign="middle"/> <b>Ask me about</b> — MERN Stack · React.js · Node.js/Express · MongoDB · Full-stack development<br/><br/>
+<img src="https://img.icons8.com/fluency/48/lightning-bolt.png" width="20" valign="middle"/> <b>Fun fact</b> — 38,000+ lines shipped across 20+ production PRs <img src="https://img.icons8.com/fluency/48/prize.png" width="18" valign="middle"/> Intern of the Month × 3
+</p>
 
 <br/>
 
-## 🚀 Featured Projects
+## <img src="https://img.icons8.com/fluency/48/rocket.png" width="28" valign="middle"/> Featured Projects
 
 <table width="100%">
   <tr>
     <td width="33%" valign="top">
-      <h3>🛡️ Nexus</h3>
+      <h3><img src="https://img.icons8.com/fluency/48/shield.png" width="22" valign="middle"/> Nexus</h3>
       <p>B2B SaaS project management platform competing with Jira/ClickUp — team workspaces, RBAC, real-time tracking.</p>
       <p><code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code></p>
       <a href="https://nexus-governance.vercel.app" target="_blank" rel="noreferrer">
@@ -42,7 +45,7 @@
       </a>
     </td>
     <td width="33%" valign="top">
-      <h3>🔗 LabLink</h3>
+      <h3><img src="https://img.icons8.com/fluency/48/link.png" width="22" valign="middle"/> LabLink</h3>
       <p>Anonymous ephemeral collaboration platform — instant private sharing with zero data persistence.</p>
       <p><code>React</code> <code>Socket.io</code> <code>Node.js</code> <code>MongoDB</code></p>
       <a href="https://lablink.live" target="_blank" rel="noreferrer">
@@ -50,7 +53,7 @@
       </a>
     </td>
     <td width="33%" valign="top">
-      <h3>💼 ElitePath</h3>
+      <h3><img src="https://img.icons8.com/fluency/48/briefcase.png" width="22" valign="middle"/> ElitePath</h3>
       <p>Full-stack job portal — Clerk auth, live listings via Adzuna API, Gemini AI resume analysis.</p>
       <p><code>React</code> <code>Clerk</code> <code>Gemini AI</code> <code>Node.js</code></p>
       <a href="https://mern-job-portal-plum.vercel.app" target="_blank" rel="noreferrer">
@@ -62,7 +65,7 @@
 
 <br/>
 
-## 🌐 Connect With Me
+## <img src="https://img.icons8.com/fluency/48/contacts.png" width="28" valign="middle"/> Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/guru-surya-raja" target="_blank" rel="noreferrer">
@@ -81,7 +84,7 @@
 
 <br/>
 
-## 💻 Tech Stack
+## <img src="https://img.icons8.com/fluency/48/source-code.png" width="28" valign="middle"/> Tech Stack
 
 <p><b>Languages</b></p>
 <p>
@@ -132,20 +135,20 @@
 
 <br/>
 
-## 📊 GitHub Stats
+## <img src="https://img.icons8.com/fluency/48/combo-chart.png" width="28" valign="middle"/> GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-kappa-three-48.vercel.app/api?username=Guru-Surya-Raja-J&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  <img height="165" src="https://github-readme-stats-kappa-three-48.vercel.app/api/top-langs/?username=Guru-Surya-Raja-J&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800"/>
+  <img height="165" src="https://github-readme-stats-kappa-three-48.vercel.app/api?username=Guru-Surya-Raja-J&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=3600&bg_color=0D1117&title_color=38BDF8&icon_color=0EA5E9&text_color=C9D1D9&border_color=0EA5E9"/>
+  <img height="165" src="https://github-readme-stats-kappa-three-48.vercel.app/api/top-langs/?username=Guru-Surya-Raja-J&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=3600&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&border_color=0EA5E9"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Guru-Surya-Raja-J&theme=tokyonight&hide_border=false&cache_seconds=1800"/>
+  <img src="https://streak-stats.demolab.com/?user=Guru-Surya-Raja-J&hide_border=true&cache_seconds=3600&background=0D1117&border=0EA5E9&ring=0EA5E9&fire=38BDF8&currStreakNum=ffffff&sideNums=C9D1D9&currStreakLabel=0EA5E9&sideLabels=C9D1D9&dates=8b949e"/>
 </div>
 
 <br/>
 
-## 📈 GitHub Activity
+## <img src="https://img.icons8.com/fluency/48/line-chart.png" width="28" valign="middle"/> GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Guru-Surya-Raja-J&theme=react-dark&bg_color=0D1117&color=0EA5E9&line=0EA5E9&point=38BDF8&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
