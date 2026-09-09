@@ -143,7 +143,7 @@
 </div>
 
 <div align="center">
-  <a href="#"><img src="https://streak-stats.demolab.com/?user=Guru-Surya-Raja-J&hide_border=true&cache_seconds=3600&background=0D1117&border=0EA5E9&ring=0EA5E9&fire=38BDF8&currStreakNum=ffffff&sideNums=C9D1D9&currStreakLabel=0EA5E9&sideLabels=C9D1D9&dates=8b949e"/></a>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Guru-Surya-Raja-J&hide_border=true&background=0D1117&border=0EA5E9&ring=0EA5E9&fire=38BDF8&currStreakNum=ffffff&sideNums=C9D1D9&currStreakLabel=0EA5E9&sideLabels=C9D1D9&dates=8b949e&v=2" alt="GitHub Streak Stats"/>
 </div>
 
 <br/>
@@ -151,7 +151,7 @@
 ## <a href="#"><img src="https://img.icons8.com/fluency/48/line-chart.png" width="28" valign="middle"/></a> GitHub Activity
 
 <div align="center">
-  <a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Guru-Surya-Raja-J&theme=react-dark&bg_color=0D1117&color=0EA5E9&line=0EA5E9&point=38BDF8&area=true&hide_border=true&custom_title=Contribution%20Activity"/></a>
+  <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=Guru-Surya-Raja-J&theme=react-dark&bg_color=0D1117&color=0EA5E9&line=0EA5E9&point=38BDF8&area=true&hide_border=true&custom_title=Contribution+Activity" alt="GitHub Activity Graph"/>
 </div>
 
 <br/><br/>
