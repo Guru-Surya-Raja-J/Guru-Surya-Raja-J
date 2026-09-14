@@ -149,7 +149,7 @@
 
 <br/>
 
-## <img src="https://img.icons8.com/fluency/48/snake.png" width="28" valign="middle"/> Contribution Snake
+## <img src="https://img.icons8.com/fluency/48/route.png" width="28" valign="middle"/> <b>Contribution Graph</b>
 
 <div align="center">
 
