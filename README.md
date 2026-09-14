@@ -28,8 +28,6 @@
 
 ## <img src="https://img.icons8.com/fluency/48/user-male-circle.png" width="28" valign="middle"/> About Me
 
-<img align="right" src="https://github-readme-stats-kappa-three-48.vercel.app/api/wakatime?username=Guru-Surya-Raja-J&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&layout=compact" width="320"/>
-
 - 📡 **Currently working on** — Building production features on a MERN SaaS platform @ Xyzon Innovations: auth systems, payment flows, AI tools & automated PDF pipelines
 - 🤝 **Looking to collaborate on** — Full-stack MERN projects, SaaS platforms, real-time (Socket.io) & AI integrations
 - 🆘 **Looking for help with** — Scaling backend architecture for high-traffic SaaS apps
@@ -138,7 +136,7 @@
 ## <img src="https://img.icons8.com/fluency/48/prize.png" width="28" valign="middle"/> Trophies
 
 <div align="center">
-  <img src="https://gh-trophy.cdnsoft.net/?username=Guru-Surya-Raja-J&theme=algolia&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=Guru-Surya-Raja-J&theme=algolia&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
 <br/>
@@ -158,7 +156,6 @@
 <!--START_SECTION:snake-->
 <img src="https://raw.githubusercontent.com/Guru-Surya-Raja-J/Guru-Surya-Raja-J/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation"/>
 <!--END_SECTION:snake-->
-
 </div>
 
 <br/>
