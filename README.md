@@ -138,7 +138,7 @@
 ## <img src="https://img.icons8.com/fluency/48/prize.png" width="28" valign="middle"/> Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Guru-Surya-Raja-J&theme=algolia&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://gh-trophy.cdnsoft.net/?username=Guru-Surya-Raja-J&theme=algolia&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
 <br/>
@@ -146,7 +146,7 @@
 ## <img src="https://img.icons8.com/fluency/48/line-chart.png" width="28" valign="middle"/> Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Guru-Surya-Raja-J&theme=react-dark&bg_color=0D1117&color=0EA5E9&line=0EA5E9&point=38BDF8&area=true&hide_border=true&custom_title=Contribution+Activity" alt="GitHub Activity Graph"/>
+  <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=Guru-Surya-Raja-J&theme=react-dark&bg_color=0D1117&color=0EA5E9&line=0EA5E9&point=38BDF8&area=true&hide_border=true&custom_title=Contribution+Activity" alt="GitHub Activity Graph"/>
 </div>
 
 <br/>
@@ -158,8 +158,6 @@
 <!--START_SECTION:snake-->
 <img src="https://raw.githubusercontent.com/Guru-Surya-Raja-J/Guru-Surya-Raja-J/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation"/>
 <!--END_SECTION:snake-->
-
-*Renders automatically once the included GitHub Action workflow runs — see setup notes below.*
 
 </div>
 
