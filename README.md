@@ -136,7 +136,7 @@
 ## <img src="https://img.icons8.com/fluency/48/prize.png" width="28" valign="middle"/> Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=Guru-Surya-Raja-J&theme=algolia&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=Guru-Surya-Raja-J&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=-1&rank=-?" alt="GitHub Trophies"/>
 </div>
 
 <br/>
@@ -154,8 +154,13 @@
 <div align="center">
 
 <!--START_SECTION:snake-->
-<img src="https://raw.githubusercontent.com/Guru-Surya-Raja-J/Guru-Surya-Raja-J/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guru-Surya-Raja-J/Guru-Surya-Raja-J/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guru-Surya-Raja-J/Guru-Surya-Raja-J/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake animation" src="https://raw.githubusercontent.com/Guru-Surya-Raja-J/Guru-Surya-Raja-J/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 <!--END_SECTION:snake-->
+
 </div>
 
 <br/>
