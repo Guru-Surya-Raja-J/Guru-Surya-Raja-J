@@ -31,7 +31,7 @@
 - 📡 **Currently working on** — Building production features on a MERN SaaS platform @ Xyzon Innovations: auth systems, payment flows, AI tools & automated PDF pipelines
 - 🤝 **Looking to collaborate on** — Full-stack MERN projects, SaaS platforms, real-time (Socket.io) & AI integrations
 - 🆘 **Looking for help with** — Scaling backend architecture for high-traffic SaaS apps
-- 🎓 **Currently learning** — Data Structures & Algorithms in C++ (Striver's A2Z Sheet) → MNC-level SDE roles
+- 🎓 **Currently learning** — Data Structures & Algorithms in Python → MNC-level SDE roles
 - 💬 **Ask me about** — MERN Stack · React.js · Node.js/Express · MongoDB · Full-stack development
 - ⚡ **Fun fact** — 38,000+ lines shipped across 20+ production PRs · 🏆 Intern of the Month × 3
 
