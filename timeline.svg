@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="235" viewBox="0 0 900 235">
+  <style>
+    .t{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}
+    .h{font-size:13px;font-weight:700;fill:#38BDF8;letter-spacing:3px}
+    .role{font-size:20px;font-weight:700;fill:#FFFFFF}
+    .date{font-size:12px;font-weight:600;fill:#8B949E;letter-spacing:1.5px}
+    .lb{font-size:13px;font-weight:700;fill:#E6EDF3}
+    .sb{font-size:11px;fill:#8B949E}
+    .gl{font-size:12px;font-weight:800}
+  </style>
+
+  <defs>
+    <linearGradient id="trk" gradientUnits="userSpaceOnUse" x1="90" y1="0" x2="810" y2="0">
+      <stop offset="0" stop-color="#38BDF8"/>
+      <stop offset=".6" stop-color="#0EA5E9"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="898" height="233" rx="16" fill="#0D1117" stroke="#0EA5E9" stroke-opacity=".35"/>
+
+  <text x="32" y="38" class="t h">EXPERIENCE</text>
+  <text x="32" y="66" class="t role">Full Stack Developer Intern · <tspan fill="#38BDF8">Xyzon Innovations</tspan></text>
+  <text x="868" y="66" text-anchor="end" class="t date">MMM YYYY – PRESENT</text>
+
+  <!-- Track -->
+  <line x1="90" y1="132" x2="810" y2="132" stroke="#30363D" stroke-width="4" stroke-linecap="round"/>
+  <line x1="90" y1="132" x2="810" y2="132" stroke="url(#trk)" stroke-width="4" stroke-linecap="round" stroke-dasharray="720" stroke-dashoffset="720">
+    <animate attributeName="stroke-dashoffset" from="720" to="0" begin="0.2s" dur="2.2s" fill="freeze"/>
+  </line>
+
+  <!-- 01 -->
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.2s" dur="0.4s" fill="freeze"/>
+    <circle cx="90" cy="132" r="20" fill="#161B22" stroke="#38BDF8" stroke-width="2.5"/>
+    <text x="90" y="137" text-anchor="middle" class="t gl" fill="#38BDF8">01</text>
+    <text x="90" y="180" text-anchor="middle" class="t lb">Joined Xyzon</text>
+    <text x="90" y="198" text-anchor="middle" class="t sb">Full Stack Intern</text>
+  </g>
+
+  <!-- 02 -->
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.64s" dur="0.4s" fill="freeze"/>
+    <circle cx="234" cy="132" r="20" fill="#161B22" stroke="#38BDF8" stroke-width="2.5"/>
+    <text x="234" y="137" text-anchor="middle" class="t gl" fill="#38BDF8">02</text>
+    <text x="234" y="180" text-anchor="middle" class="t lb">Auth Systems</text>
+    <text x="234" y="198" text-anchor="middle" class="t sb">Production login flows</text>
+  </g>
+
+  <!-- 03 -->
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.08s" dur="0.4s" fill="freeze"/>
+    <circle cx="378" cy="132" r="20" fill="#161B22" stroke="#0EA5E9" stroke-width="2.5"/>
+    <text x="378" y="137" text-anchor="middle" class="t gl" fill="#0EA5E9">03</text>
+    <text x="378" y="180" text-anchor="middle" class="t lb">Payment Flows</text>
+    <text x="378" y="198" text-anchor="middle" class="t sb">Checkout to verification</text>
+  </g>
+
+  <!-- 04 -->
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.52s" dur="0.4s" fill="freeze"/>
+    <circle cx="522" cy="132" r="20" fill="#161B22" stroke="#A78BFA" stroke-width="2.5"/>
+    <text x="522" y="137" text-anchor="middle" class="t gl" fill="#A78BFA">04</text>
+    <text x="522" y="180" text-anchor="middle" class="t lb">AI Tools</text>
+    <text x="522" y="198" text-anchor="middle" class="t sb">In-product AI features</text>
+  </g>
+
+  <!-- 05 -->
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.96s" dur="0.4s" fill="freeze"/>
+    <circle cx="666" cy="132" r="20" fill="#161B22" stroke="#F87171" stroke-width="2.5"/>
+    <text x="666" y="137" text-anchor="middle" class="t gl" fill="#F87171">05</text>
+    <text x="666" y="180" text-anchor="middle" class="t lb">PDF Pipeline</text>
+    <text x="666" y="198" text-anchor="middle" class="t sb">Automated generation</text>
+  </g>
+
+  <!-- 06 — highlight -->
+  <circle cx="810" cy="132" r="24" fill="none" stroke="#F59E0B" stroke-width="2" opacity="0">
+    <animate attributeName="r" values="24;38" dur="1.8s" begin="2.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.8;0" dur="1.8s" begin="2.8s" repeatCount="indefinite"/>
+  </circle>
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.4s" dur="0.4s" fill="freeze"/>
+    <circle cx="810" cy="132" r="24" fill="#2A1F0A" stroke="#F59E0B" stroke-width="3"/>
+    <text x="810" y="139" text-anchor="middle" class="t" font-size="20" font-weight="800" fill="#F59E0B">★</text>
+    <text x="810" y="180" text-anchor="middle" class="t lb" fill="#F59E0B">3× Intern of the Month</text>
+    <text x="810" y="198" text-anchor="middle" class="t sb">38K+ lines · 20+ PRs</text>
+  </g>
+</svg>
