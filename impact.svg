@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="210" viewBox="0 0 900 210">
+  <style>
+    .t{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}
+    .h{font-size:13px;font-weight:700;fill:#38BDF8;letter-spacing:3px}
+    .ow{font-size:12px;font-weight:700;fill:#22C55E;letter-spacing:2px}
+    .num{font-size:40px;font-weight:800;fill:#FFFFFF}
+    .lbl{font-size:12px;font-weight:600;fill:#8B949E;letter-spacing:1.5px}
+    .ic{font-size:14px;font-weight:800}
+    .card{opacity:0;animation:up .8s ease-out forwards}
+    .c1{animation-delay:.1s}.c2{animation-delay:.35s}.c3{animation-delay:.6s}.c4{animation-delay:.85s}
+    @keyframes up{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:translateY(0)}}
+    .bar{transform-box:fill-box;transform-origin:left center;transform:scaleX(0);animation:grow 1.6s ease-out forwards}
+    .b1{animation-delay:.5s}.b2{animation-delay:.75s}.b3{animation-delay:1s}.b4{animation-delay:1.25s}
+    @keyframes grow{to{transform:scaleX(1)}}
+    .pulse{animation:p 1.6s ease-in-out infinite}
+    @keyframes p{0%,100%{opacity:1}50%{opacity:.2}}
+  </style>
+
+  <rect x="1" y="1" width="898" height="208" rx="16" fill="#0D1117" stroke="#0EA5E9" stroke-opacity=".35"/>
+
+  <text x="32" y="38" class="t h">IMPACT SNAPSHOT</text>
+  <circle cx="752" cy="33" r="5" fill="#22C55E" class="pulse"/>
+  <text x="764" y="38" class="t ow">OPEN TO WORK</text>
+
+  <!-- Card 1 -->
+  <g class="card c1">
+    <rect x="32" y="58" width="200" height="128" rx="12" fill="#161B22" stroke="#30363D"/>
+    <rect x="32" y="58" width="200" height="3" rx="1.5" fill="#38BDF8"/>
+    <circle cx="200" cy="90" r="16" fill="#38BDF8" fill-opacity=".15"/>
+    <text x="200" y="95" text-anchor="middle" class="t ic" fill="#38BDF8">&lt;/&gt;</text>
+    <text x="52" y="132" class="t num">38K+</text>
+    <text x="52" y="155" class="t lbl">LINES SHIPPED</text>
+    <rect x="52" y="168" width="160" height="4" rx="2" fill="#30363D"/>
+    <rect x="52" y="168" width="160" height="4" rx="2" fill="#38BDF8" class="bar b1"/>
+  </g>
+
+  <!-- Card 2 -->
+  <g class="card c2">
+    <rect x="244" y="58" width="200" height="128" rx="12" fill="#161B22" stroke="#30363D"/>
+    <rect x="244" y="58" width="200" height="3" rx="1.5" fill="#0EA5E9"/>
+    <circle cx="412" cy="90" r="16" fill="#0EA5E9" fill-opacity=".15"/>
+    <text x="412" y="95" text-anchor="middle" class="t ic" fill="#0EA5E9">PR</text>
+    <text x="264" y="132" class="t num">20+</text>
+    <text x="264" y="155" class="t lbl">PRODUCTION PRs</text>
+    <rect x="264" y="168" width="160" height="4" rx="2" fill="#30363D"/>
+    <rect x="264" y="168" width="160" height="4" rx="2" fill="#0EA5E9" class="bar b2"/>
+  </g>
+
+  <!-- Card 3 -->
+  <g class="card c3">
+    <rect x="456" y="58" width="200" height="128" rx="12" fill="#161B22" stroke="#30363D"/>
+    <rect x="456" y="58" width="200" height="3" rx="1.5" fill="#F59E0B"/>
+    <circle cx="624" cy="90" r="16" fill="#F59E0B" fill-opacity=".15"/>
+    <text x="624" y="95" text-anchor="middle" class="t ic" fill="#F59E0B">★</text>
+    <text x="476" y="132" class="t num">3×</text>
+    <text x="476" y="155" class="t lbl">INTERN OF THE MONTH</text>
+    <rect x="476" y="168" width="160" height="4" rx="2" fill="#30363D"/>
+    <rect x="476" y="168" width="160" height="4" rx="2" fill="#F59E0B" class="bar b3"/>
+  </g>
+
+  <!-- Card 4 -->
+  <g class="card c4">
+    <rect x="668" y="58" width="200" height="128" rx="12" fill="#161B22" stroke="#30363D"/>
+    <rect x="668" y="58" width="200" height="3" rx="1.5" fill="#22C55E"/>
+    <circle cx="836" cy="90" r="16" fill="#22C55E" fill-opacity=".15"/>
+    <text x="836" y="95" text-anchor="middle" class="t ic" fill="#22C55E">▲</text>
+    <text x="688" y="132" class="t num">3</text>
+    <text x="688" y="155" class="t lbl">LIVE PRODUCTS</text>
+    <rect x="688" y="168" width="160" height="4" rx="2" fill="#30363D"/>
+    <rect x="688" y="168" width="160" height="4" rx="2" fill="#22C55E" class="bar b4"/>
+  </g>
+</svg>
